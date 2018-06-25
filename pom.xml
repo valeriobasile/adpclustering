@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>prepositionclustering</groupId>
+  <artifactId>prepositionclustering</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>prepositionclustering</name>
+  <repositories>
+	<repository>
+			<id>kelp_repo_snap</id>
+			<name>KeLP Snapshots repository</name>
+			<releases>
+				<enabled>false</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>warn</checksumPolicy>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>fail</checksumPolicy>
+			</snapshots>
+			<url>http://sag.art.uniroma2.it:8081/artifactory/kelp-snapshot/</url>
+		</repository>
+		<repository>
+			<id>kelp_repo_release</id>
+			<name>KeLP Stable repository</name>
+			<releases>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>warn</checksumPolicy>
+			</releases>
+			<snapshots>
+				<enabled>false</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>fail</checksumPolicy>
+			</snapshots>
+			<url>http://sag.art.uniroma2.it:8081/artifactory/kelp-release/</url>
+		</repository>
+	</repositories>
+	<dependencies>
+	<dependency>
+    <groupId>it.uniroma2.sag.kelp</groupId>
+    <artifactId>kelp-full</artifactId>
+    <version>2.2.2</version>
+</dependency>
+	</dependencies>
+</project>
