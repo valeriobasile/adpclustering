@@ -1,328 +1,328 @@
-car::n	out	rust::v	amod
-good::a	with	daughter::n	obl
-hit::n	for	freshness::n	nmod
-browned::a	around	edge::n	obl
-move::v	with	pod::n	obl
-lie::v	to	face::n	obl
-stay::v	in	room::n	obl
-stay::v	in	december::n	obl
-look::v	for	accommodation::n	obl
-accommodation::n	in	bay::n	nmod
-go::v	to	anyone::p	obl
-fine::a	for	chocolate::n	obl
-why::r	with	company::n	obl
-company::n	like	berger::n	nmod
-company::n	in	area::n	nmod
-work::n	from	boy::n	nmod
-boy::n	in	blue::a	nmod
-work::n	from	boy::n	nmod
-boy::n	in	blue::a	nmod
-thorough::a	on	top::n	conj
-top::n	of	everything::p	nmod
-pizza::n	at	location::n	nmod
-corner::n	of	sts.::n	nmod
-home::n	to	pizza::n	nmod
-apprised::a	of	status::n	obl
-have::v	down	break::v	xcomp
-offices::n	of	armando::n	nmod
-hear::v	out	site::n	conj
-hear::v	of	site::n	conj
-call::v	for	event::n	obl
-compare::v	to	decade::n	obl
-gain::v	in	level::n	obl
-work::v	for	i::p	obl
-use::v	on	dog::n	obl
-use::v	for	year::n	obl
-ruder::a	to	i::p	obl
-attention::n	to	detail::n	nmod
-blanket::n	on	bed::n	nmod
-%::	of	about::n	nmod
-about::n	in	room::n	nmod
-good::a	for	meal::n	obl
-assortment::n	of	customer::n	nmod
-add::v	to	meal::n	obl
-lounge::n	on	blouvard::n	nmod
-bless::v	by	opening::n	obl
-opening::n	of	shop::n	nmod
-receive::v	at	time::n	obl
-time::n	of	purchase::n	nmod
-go::v	to	japaneiro::n	obl
-happen::v	for	i::p	obl
-happen::v	due	menu::n	obl
-menu::n	to	due::i	case
-menu::n	of	roll::n	nmod
-get::v	for	wife::n	obl
-shop::n	around	norman::n	nmod
-work::v	on	bike::n	obl
-work::v	on	it::p	obl
-work::v	on	back::n	obl
-back::n	of	car::n	nmod
-kick::v	for	cup::n	obl
-cup::n	of	joe::n	nmod
-pizza::n	in	city::n	nmod
-trust::v	with	teeth::n	obl
-trust::v	for	year::n	obl
-go::v	to	anyone::p	obl
-everyone::p	on	staff::n	nmod
-look::v	for	food::n	obl
-let::v	in	check::v	xcomp
-lot::n	of	room::n	nmod
-room::n	for	parking::n	nmod
-hard::a	into	get::v	ccomp
-hard::a	because	construction::n	obl
-construction::n	of	because::i	case
-stroll::v	off	road::n	obl
-road::n	in	fe::n	nmod
-stroll::v	into	gallery::n	obl
-gallery::n	with	diversity::n	nmod
-diversity::n	of	art::n	nmod
-available::a	to	area::n	obl
-area::n	with	food::n	nmod
-do::v	at	theatre::n	obl
-feel::v	about	one::c	obl
-passable::a	as	pub::n	obl
-go::v	to	famoso::n	obl
-gem::n	of	restaurant::n	nmod
-gem::n	in	corner::n	nmod
-prepare::v	from	ingredient::n	obl
-find::v	in	area::n	obl
-drive::v	for	volcano::n	obl
-salon::n	by	far::r	obl
-salon::n	in	mile::n	nmod
-wrap::n	for	venza::n	nmod
-be::v	near	bridges::n	obl
-bridges::n	to	west::n	nmod
-west::n	of	location::n	nmod
-one::c	of	few::a	nmod
-one::c	of	store::n	nmod
-store::n	in	smith::n	nmod
-fabrics::n	for	fun::n	compound
-have::v	inside	barling::n	obl
-selection::n	of	fabric::n	nmod
-pie::n	in	canada::n	nmod
-look::v	for	pie::n	obl
-hoot::n	with	deal::v	acl
-be::v	with	pizza::n	obl
-priced::a	for	food::n	obl
-line::n	on	weekend::n	nmod
-place::n	from	order::v	acl
-purchase::v	from	here::r	obl
-bit::n	of	it::p	nmod
-run::v	with	people::n	obl
-feel::v	in	clothes::n	obl
-sushi::n	for	price::n	nmod
-favorite::n	in	bellevue::n	nmod
-forward::v	to	malcolm::n	obl
-malcolm::n	down	road::n	nmod
-review::n	for	dentist::n	nmod
-number::n	to	other::n	nmod
-other::n	in	area::n	nmod
-post::v	at	interval::n	obl
-catch::v	up	catch::v	conj
-catch::v	with	friend::n	obl
-take::v	of	belongings::n	obl
-cater::v	to	crowd::n	obl
-pleasure::n	with	work::v	acl
-experience::n	with	department::n	nmod
-glass::n	from	india::n	nmod
-go::v	to	glass::n	obl
-go::v	for	need::n	obl
-satisfied::a	with	result::n	obl
-look::v	like	glass::n	obl
-p::n	for	water::n	nmod
-cream::n	on	coleslaw::n	nmod
-perfect::a	on	budget::n	advcl
-fun::n	for	night::n	nmod
-great::a	for	price::n	obl
-cheapest::a	on	exit::n	obl
-move::v	into	neighbourhood::n	obl
-worth::a	of	ride::n	obl
-ride::n	than	more::a	advmod
-have::v	on	field::n	obl
-meal::n	on	menu::n	nmod
-total::n	on	receipt::n	nmod
-go::v	on	line::n	obl
-integrity::n	to	i::p	obl
-place::n	for	embroidery::n	nmod
-embroider::v	within	week::n	obl
-photographer::n	in	miami::n	nmod
-pleasure::n	with	work::v	acl
-pleased::a	with	service::n	obl
-get::v	at	luxe::n	obl
-thanks::n	for	help::n	nmod
-find::v	at	minute::n	obl
-place::n	for	snowboard::n	nmod
-help::v	with	lot::n	obl
-recommend::v	to	anyone::p	obl
-anyone::p	in	need::n	nmod
-anyone::p	of	need::n	nmod
-look::v	for	florist::n	obl
-statement::n	about	hamburguer::n	nmod
-hamburguer::n	in	town::n	nmod
-amplifia::v	to	hamburguer::n	obl
-hamburguer::n	in	world::n	nmod
-fall::v	in	love::n	obl
-best::a	of	best::a	obl
-place::n	in	hills::n	obl
-walk::v	in	there::r	obl
-walk::v	with	puppy::n	obl
-keep::v	in	condition::n	obl
-service::n	for	morning::n	nmod
-work::v	from	pm::n	obl
-work::v	until	am::n	obl
-recommend::v	to	everyone::p	obl
-everyone::p	in	calgary::n	nmod
-cost::n	for	she::p	nmod
-location::n	at	maps::n	nmod
-contactable::a	at	weekend::n	obl
-food::n	in	environment::n	nmod
-stay::v	at	tanglewood::n	obl
-stay::v	for	year::n	obl
-problem::n	with	cabin::n	nmod
-spot::n	in	area::n	nmod
-expect::v	from	place::n	obl
-come::v	in	size::n	obl
-size::n	for	money::n	nmod
-food::n	with	atmosphere::n	nmod
-best::a	in	memphis::n	obl
-best::a	by	far::r	obl
-expensive::a	on	which::p	obl
-lower::a	than	shop::n	obl
-use::v	for	event::n	obl
-walk::n	against	drugs::n	nmod
-come::v	on	all::d	obl
-all::d	of	promise::n	nmod
-go::v	to	8::n	obl
-clean::a	with	atmosphere::n	obl
-hobbs::n	on	mass::n	nmod
-store::n	in	lawrence::n	nmod
-be::v	out	there::r	obl
-be::v	of	there::r	obl
-be::v	in	min::n	obl
-be::v	with	deal::n	obl
-able::a	with	dui::n	obl
-sandwich::n	for	breakfast::n	nmod
-receive::v	from	store::n	obl
-everything::p	except	display::n	nmod
-knowledge::n	to	anyone::p	nmod
-anyone::p	in	industry::n	nmod
-best::a	with	deal::v	ccomp
-surprised::a	in	word::n	obl
-care::v	about	name::n	obl
-more::r	than	pocket::n	obl
-drink::n	in	keene::n	nmod
-see::v	at	cinema::n	obl
-locate::v	off	road::n	obl
-choose::v	over	hilton::n	obl
-hilton::n	on	block::n	acl:relcl
-thanks::n	for	job::n	nmod
-thanks::n	for	service::n	nmod
-do::v	on	system::n	obl
-panel::n	on	roof::n	nmod
-back::r	to	grid::n	obl
-certificate::n	with	adz::n	nmod
-win::v	through	auction::n	obl
-donate::v	by	teacher::n	obl
-surprise::v	by	review::n	obl
-do::v	on	laptop::n	obl
-happen::v	on	place::n	obl
-happen::v	to	place::n	obl
-happen::v	out	town::n	advcl
-happen::v	of	town::n	advcl
-town::n	on	business::n	nmod
-kind::n	of	place::n	nmod
-close::a	to	stop::n	obl
-tan::v	down	street::n	obl
-refer::v	to	place::n	obl
-refer::v	by	one::c	obl
-one::c	of	friend::n	nmod
-better::a	than	level::n	obl
-variety::n	of	hotdog::n	nmod
-outfit::n	with	poster::n	nmod
-poster::n	from	70'::n	nmod
-location::n	for	location::n	conj
-update::v	in	database::n	obl
-view::n	of	city::n	nmod
-attraction::n	like	simulator::n	nmod
-spin::v	in	tower::n	obl
-spin::v	with	view::n	obl
-up::n	in	summer::n	obl
-come::v	for	meal::n	obl
-most::r	of	all::d	obl
-advance::v	within	month::n	obl
-service::n	for	student::n	nmod
-help::n	with	work::n	nmod
-move::v	to	rd::n	obl
-$::	with	water::n	nmod
-$::	for	buffet::n	nmod
-period::n	by	far::r	nmod
-one::c	of	place::n	nmod
-eat::v	for	lunch::n	obl
-offer::v	at	price::n	obl
-enough::a	up	fill::v	advcl
-park::n	at	have::v	acl
-photographer::n	with	work::v	acl:relcl
-way::n	with	child::n	nmod
-image::n	as	as::r	cc
-disappoint::v	with	work::n	obl
-try::v	on	myself::p	obl
-quality::n	of	work::n	nmod
-ask::v	like	change::n	obl
-customer::n	with	coupon::n	nmod
-recommend::v	to	anyone::p	obl
-ever::r	in	area::n	obl
-some::d	of	people::n	nmod
-follow::v	around	store::n	obl
-couple::n	of	belt::n	nmod
-walk::v	because	lurking::n	obl
-lurking::n	of	because::i	case
-ton::n	of	pizza::n	nmod
-other::a	than	pizza::n	obl
-pizza::n	from	chicago::n	nmod
-rude::a	as	as::r	cc
-come::v	out	mouth::n	obl
-come::v	of	mouth::n	obl
-taste::v	like	fece::n	obl
-place::n	with	room::n	nmod
-place::n	outside	city::n	nmod
-happy::a	with	lesson::n	obl
-do::v	for	year::n	obl
-issue::n	with	deal::v	acl
-prompt::a	in	response::n	obl
-company::n	in	phuket::n	nmod
-smooth::r	from	meeting::n	obl
-meeting::n	with	they::p	nmod
-smooth::r	to	launch::n	obl
-launch::n	of	website::n	nmod
-smooth::r	on	schedule::n	conj
-great::a	with	seo::n	obl
-service::n	with	outcome::n	nmod
-hiree::v	for	project::n	obl
-place::n	for	people::n	nmod
-people::n	in	pain::n	nmod
-place::n	for	people::n	nmod
-people::n	in	pain::n	nmod
-treat::v	like	being::n	obl
-explain::v	to	i::p	obl
-work::n	on	car::n	nmod
-nothing::p	but	thing::n	conj
-food::n	at	price::n	nmod
-use::v	for	plumbing::n	obl
-star::n	for	sure::a	nmod
-thanks::n	from	bill::n	nmod
-meat::n	on	burger::n	nmod
-facility::n	with	staff::n	nmod
-have::v	for	meal::n	obl
-abuse::v	during	end::n	obl
-beware::v	off	rip::v	parataxis
-shop::n	on	avenue::n	nmod
-drive::v	to	san::n	obl
-drive::v	for	pedi::n	obl
-arrive::v	with	box::n	obl
-hassle::n	with	trip::n	nmod
-do::v	in	august::n	obl
-recomend::v	to	other::n	obl
-recomend::v	for	service::n	obl
-restaurant::n	in	valley::n	nmod
-drive::v	from	phx::n	obl
-use::v	in	future::n	obl
+car::n	out	rust::v	amod	_	_
+good::a	with	daughter::n	obl	??	_
+hit::n	for	freshness::n	nmod	p.Characteristic	p.Characteristic
+browned::a	around	edge::n	obl	p.Locus	p.Locus
+move::v	with	pod::n	obl	p.Instrument	p.Instrument
+lie::v	to	face::n	obl	p.Goal	p.Goal
+stay::v	in	room::n	obl	p.Locus	p.Locus
+stay::v	in	december::n	obl	p.Time	p.Time
+look::v	for	accommodation::n	obl	p.Theme	p.Theme
+accommodation::n	in	bay::n	nmod	p.Locus	p.Locus
+go::v	to	anyone::p	obl	p.Goal	p.Goal
+fine::a	for	chocolate::n	obl	p.ComparisonRef	p.ComparisonRef
+why::r	with	company::n	obl	p.Circumstance	p.Circumstance
+company::n	like	berger::n	nmod	p.PartPortion	p.ComparisonRef
+company::n	in	area::n	nmod	p.Locus	p.Locus
+work::n	from	boy::n	nmod	p.Agent	p.Source
+boy::n	in	blue::a	nmod	_	_
+work::n	from	boy::n	nmod	p.Agent	p.Source
+boy::n	in	blue::a	nmod	_	_
+thorough::a	on	top::n	conj	_	_
+top::n	of	everything::p	nmod	_	_
+pizza::n	at	location::n	nmod	p.Locus	p.Locus
+corner::n	of	sts.::n	nmod	p.Whole	p.Whole
+home::n	to	pizza::n	nmod	_	_
+apprised::a	of	status::n	obl	p.Topic	p.Topic
+have::v	down	break::v	xcomp	_	_
+offices::n	of	armando::n	nmod	_	_
+hear::v	out	site::n	conj	_	_
+hear::v	of	site::n	conj	_	_
+call::v	for	event::n	obl	p.Purpose	p.Purpose
+compare::v	to	decade::n	obl	p.ComparisonRef	p.Goal
+gain::v	in	level::n	obl	??	_
+work::v	for	i::p	obl	_	_
+use::v	on	dog::n	obl	p.Goal	p.Locus
+use::v	for	year::n	obl	p.Duration	p.Duration
+ruder::a	to	i::p	obl	p.Beneficiary	p.Goal
+attention::n	to	detail::n	nmod	_	_
+blanket::n	on	bed::n	nmod	p.Locus	p.Locus
+%::	of	about::n	nmod	p.Quantity	p.Whole
+about::n	in	room::n	nmod	p.Locus	p.Locus
+good::a	for	meal::n	obl	p.Purpose	p.Purpose
+assortment::n	of	customer::n	nmod	p.Species	p.Species
+add::v	to	meal::n	obl	p.Goal	p.Goal
+lounge::n	on	blouvard::n	nmod	p.Locus	p.Locus
+bless::v	by	opening::n	obl	p.Means	p.Means
+opening::n	of	shop::n	nmod	p.Theme	p.Theme
+receive::v	at	time::n	obl	p.Time	p.Time
+time::n	of	purchase::n	nmod	p.Gestalt	p.Gestalt
+go::v	to	japaneiro::n	obl	p.Goal	p.Goal
+happen::v	for	i::p	obl	p.Beneficiary	p.Beneficiary
+happen::v	due	menu::n	obl	p.Explanation	p.Explanation
+menu::n	to	due::i	case	_	_
+menu::n	of	roll::n	nmod	p.Quantity	p.Stuff
+get::v	for	wife::n	obl	p.Recipient	p.Direction
+shop::n	around	norman::n	nmod	p.Locus	p.Locus
+work::v	on	bike::n	obl	p.Theme	p.Theme
+work::v	on	it::p	obl	p.Theme	p.Theme
+work::v	on	back::n	obl	p.Locus	p.Locus
+back::n	of	car::n	nmod	p.Whole	p.Whole
+kick::v	for	cup::n	obl	p.Circumstance	p.Circumstance
+cup::n	of	joe::n	nmod	_	_
+pizza::n	in	city::n	nmod	p.Locus	p.Locus
+trust::v	with	teeth::n	obl	p.Topic	p.Topic
+trust::v	for	year::n	obl	p.Duration	p.Duration
+go::v	to	anyone::p	obl	p.Goal	p.Goal
+everyone::p	on	staff::n	nmod	p.OrgRole	p.Locus
+look::v	for	food::n	obl	p.Theme	p.Theme
+let::v	in	check::v	xcomp	_	_
+lot::n	of	room::n	nmod	p.Quantity	p.Quantity
+room::n	for	parking::n	nmod	p.Purpose	p.Purpose
+hard::a	into	get::v	ccomp	p.Goal	p.Goal
+hard::a	because	construction::n	obl	p.Explanation	p.Explanation
+construction::n	of	because::i	case	_	_
+stroll::v	off	road::n	obl	p.Source	p.Source
+road::n	in	fe::n	nmod	p.Locus	p.Locus
+stroll::v	into	gallery::n	obl	p.Goal	p.Goal
+gallery::n	with	diversity::n	nmod	p.Characteristic	p.Characteristic
+diversity::n	of	art::n	nmod	p.Species	p.Species
+available::a	to	area::n	obl	p.Goal	p.Goal
+area::n	with	food::n	nmod	p.Characteristic	p.Characteristic
+do::v	at	theatre::n	obl	p.Locus	p.Locus
+feel::v	about	one::c	obl	p.Stimulus	p.Topic
+passable::a	as	pub::n	obl	p.Identity	p.Identity
+go::v	to	famoso::n	obl	p.Goal	p.Goal
+gem::n	of	restaurant::n	nmod	p.Identity	p.Identity
+gem::n	in	corner::n	nmod	p.Locus	p.Locus
+prepare::v	from	ingredient::n	obl	p.Source	p.Source
+find::v	in	area::n	obl	p.Locus	p.Locus
+drive::v	for	volcano::n	obl	p.Purpose	p.Purpose
+salon::n	by	far::r	obl	p.Extent	p.Extent
+salon::n	in	mile::n	nmod	p.Locus	p.Locus
+wrap::n	for	venza::n	nmod	p.Theme	p.Theme
+be::v	near	bridges::n	obl	p.Locus	p.Locus
+bridges::n	to	west::n	nmod	p.Locus	p.Goal
+west::n	of	location::n	nmod	p.Locus	p.Source
+one::c	of	few::a	nmod	p.Quantity	p.Whole
+one::c	of	store::n	nmod	p.Quantity	p.Whole
+store::n	in	smith::n	nmod	p.Locus	p.Locus
+fabrics::n	for	fun::n	compound	_	_
+have::v	inside	barling::n	obl	p.Locus	p.Locus
+selection::n	of	fabric::n	nmod	p.Species	p.Species
+pie::n	in	canada::n	nmod	p.Locus	p.Locus
+look::v	for	pie::n	obl	p.Theme	p.Theme
+hoot::n	with	deal::v	acl	_	_
+be::v	with	pizza::n	obl	p.Accompanier	p.Accompanier
+priced::a	for	food::n	obl	p.ComparisonRef	p.ComparisonRef
+line::n	on	weekend::n	nmod	p.Time	p.Time
+place::n	from	order::v	acl	p.Originator	p.Source
+purchase::v	from	here::r	obl	p.Originator	p.Source
+bit::n	of	it::p	nmod	p.Quantity	p.Whole
+run::v	with	people::n	obl	p.OrgRole	p.Characteristic
+feel::v	in	clothes::n	obl	p.Possession	p.Locus
+sushi::n	for	price::n	nmod	p.Cost	p.Cost
+favorite::n	in	bellevue::n	nmod	p.Locus	p.Locus
+forward::v	to	malcolm::n	obl	p.Recipient	p.Goal
+malcolm::n	down	road::n	nmod	p.Locus	p.Path
+review::n	for	dentist::n	nmod	p.Topic	p.Topic
+number::n	to	other::n	nmod	p.ComparisonRef	p.Goal
+other::n	in	area::n	nmod	p.Locus	p.Locus
+post::v	at	interval::n	obl	p.Frequency	p.Frequency
+catch::v	up	catch::v	conj	_	_
+catch::v	with	friend::n	obl	p.Co-Agent	p.Co-Agent
+take::v	of	belongings::n	obl	_	_
+cater::v	to	crowd::n	obl	p.Beneficiary	p.Goal
+pleasure::n	with	work::v	acl	p.Co-Agent	p.Co-Agent
+experience::n	with	department::n	nmod	p.Topic	p.Topic
+glass::n	from	india::n	nmod	p.Source	p.Source
+go::v	to	glass::n	obl	p.Goal	p.Goal
+go::v	for	need::n	obl	p.Purpose	p.Purpose
+satisfied::a	with	result::n	obl	p.Stimulus	p.Topic
+look::v	like	glass::n	obl	p.Manner	p.ComparisonRef
+p::n	for	water::n	nmod	p.Theme	p.Theme
+cream::n	on	coleslaw::n	nmod	p.Locus	p.Locus
+perfect::a	on	budget::n	advcl	p.Manner	p.Locus
+fun::n	for	night::n	nmod	p.Purpose	p.Purpose
+great::a	for	price::n	obl	p.ComparisonRef	p.ComparisonRef
+cheapest::a	on	exit::n	obl	p.Locus	p.Locus
+move::v	into	neighbourhood::n	obl	p.Goal	p.Goal
+worth::a	of	ride::n	obl	??	_
+ride::n	than	more::a	advmod	_	_
+have::v	on	field::n	obl	p.Locus	p.Locus
+meal::n	on	menu::n	nmod	p.Locus	p.Locus
+total::n	on	receipt::n	nmod	p.Locus	p.Locus
+go::v	on	line::n	obl	p.Goal	p.Locus
+integrity::n	to	i::p	obl	p.Experiencer	p.Goal
+place::n	for	embroidery::n	nmod	p.Purpose	p.Purpose
+embroider::v	within	week::n	obl	p.Duration	p.Duration
+photographer::n	in	miami::n	nmod	p.Locus	p.Locus
+pleasure::n	with	work::v	acl	p.SocialRel	p.Co-Agent
+pleased::a	with	service::n	obl	p.Stimulus	p.Topic
+get::v	at	luxe::n	obl	p.Locus	p.Locus
+thanks::n	for	help::n	nmod	p.Explanation	p.Explanation
+find::v	at	minute::n	obl	p.Time	p.Time
+place::n	for	snowboard::n	nmod	p.Purpose	p.Purpose
+help::v	with	lot::n	obl	p.Theme	p.Theme
+recommend::v	to	anyone::p	obl	p.Recipient	p.Goal
+anyone::p	in	need::n	nmod	p.Manner	p.Locus
+anyone::p	of	need::n	nmod	_	_
+look::v	for	florist::n	obl	p.Theme	p.Theme
+statement::n	about	hamburguer::n	nmod	p.Topic	p.Topic
+hamburguer::n	in	town::n	nmod	p.Locus	p.Locus
+amplifia::v	to	hamburguer::n	obl	p.Goal	p.Goal
+hamburguer::n	in	world::n	nmod	p.Locus	p.Locus
+fall::v	in	love::n	obl	_	_
+best::a	of	best::a	obl	_	_
+place::n	in	hills::n	obl	p.Locus	p.Locus
+walk::v	in	there::r	obl	p.Goal	p.Locus
+walk::v	with	puppy::n	obl	p.Possession	p.Accompanier
+keep::v	in	condition::n	obl	p.Manner	p.Locus
+service::n	for	morning::n	nmod	p.ComparisonRef	p.ComparisonRef
+work::v	from	pm::n	obl	p.StartTime	p.StartTime
+work::v	until	am::n	obl	p.EndTime	p.EndTime
+recommend::v	to	everyone::p	obl	p.Recipient	p.Goal
+everyone::p	in	calgary::n	nmod	p.Locus	p.Locus
+cost::n	for	she::p	nmod	p.Theme	p.Theme
+location::n	at	maps::n	nmod	p.Locus	p.Locus
+contactable::a	at	weekend::n	obl	p.Time	p.Time
+food::n	in	environment::n	nmod	p.Locus	p.Locus
+stay::v	at	tanglewood::n	obl	p.Locus	p.Locus
+stay::v	for	year::n	obl	p.Duration	p.Duration
+problem::n	with	cabin::n	nmod	p.Topic	p.Topic
+spot::n	in	area::n	nmod	p.Locus	p.Locus
+expect::v	from	place::n	obl	p.Source	p.Source
+come::v	in	size::n	obl	p.Manner	p.Locus
+size::n	for	money::n	nmod	p.ComparisonRef	p.ComparisonRef
+food::n	with	atmosphere::n	nmod	p.Characteristic	p.Characteristic
+best::a	in	memphis::n	obl	p.Locus	p.Locus
+best::a	by	far::r	obl	p.Extent	p.Extent
+expensive::a	on	which::p	obl	??	_
+lower::a	than	shop::n	obl	p.ComparisonRef	p.ComparisonRef
+use::v	for	event::n	obl	p.Purpose	p.Purpose
+walk::n	against	drugs::n	nmod	_	_
+come::v	on	all::d	obl	p.Topic	p.Topic
+all::d	of	promise::n	nmod	p.Quantity	p.Whole
+go::v	to	8::n	obl	p.Goal	p.Goal
+clean::a	with	atmosphere::n	obl	p.Characteristic	p.Characteristic
+hobbs::n	on	mass::n	nmod	p.Locus	p.Locus
+store::n	in	lawrence::n	nmod	p.Locus	p.Locus
+be::v	out	there::r	obl	p.Source	p.Source
+be::v	of	there::r	obl	_	_
+be::v	in	min::n	obl	p.Time	p.Interval
+be::v	with	deal::n	obl	p.Possession	p.Accompanier
+able::a	with	dui::n	obl	p.Circumstance	p.Circumstance
+sandwich::n	for	breakfast::n	nmod	p.Purpose	p.Purpose
+receive::v	from	store::n	obl	p.Originator	p.Source
+everything::p	except	display::n	nmod	p.PartPortion	p.PartPortion
+knowledge::n	to	anyone::p	nmod	p.ComparisonRef	p.Goal
+anyone::p	in	industry::n	nmod	p.OrgRole	p.Locus
+best::a	with	deal::v	ccomp	_	_
+surprised::a	in	word::n	obl	p.Manner	p.Manner
+care::v	about	name::n	obl	p.Stimulus	p.Topic
+more::r	than	pocket::n	obl	p.ComparisonRef	p.ComparisonRef
+drink::n	in	keene::n	nmod	p.Locus	p.Locus
+see::v	at	cinema::n	obl	p.Locus	p.Locus
+locate::v	off	road::n	obl	p.Locus	p.Source
+choose::v	over	hilton::n	obl	p.InsteadOf	p.Locus
+hilton::n	on	block::n	acl:relcl	p.Locus	p.Locus
+thanks::n	for	job::n	nmod	p.Explanation	p.Explanation
+thanks::n	for	service::n	nmod	p.Explanation	p.Explanation
+do::v	on	system::n	obl	p.Theme	p.Theme
+panel::n	on	roof::n	nmod	p.Locus	p.Locus
+back::r	to	grid::n	obl	p.Goal	p.Goal
+certificate::n	with	adz::n	nmod	p.OrgRole	p.Co-Agent
+win::v	through	auction::n	obl	p.Means	p.Means
+donate::v	by	teacher::n	obl	p.Agent	p.Agent
+surprise::v	by	review::n	obl	p.Stimulus	p.Causer
+do::v	on	laptop::n	obl	p.Theme	p.Theme
+happen::v	on	place::n	obl	_	_
+happen::v	to	place::n	obl	_	_
+happen::v	out	town::n	advcl	p.Locus	p.Source
+happen::v	of	town::n	advcl	_	_
+town::n	on	business::n	nmod	p.Circumstance	p.Locus
+kind::n	of	place::n	nmod	p.Species	p.Species
+close::a	to	stop::n	obl	p.Locus	p.Goal
+tan::v	down	street::n	obl	p.Locus	p.Direction
+refer::v	to	place::n	obl	p.Recipient	p.Goal
+refer::v	by	one::c	obl	p.Originator	p.Agent
+one::c	of	friend::n	nmod	p.Quantity	p.Whole
+better::a	than	level::n	obl	p.ComparisonRef	p.ComparisonRef
+variety::n	of	hotdog::n	nmod	p.Species	p.Species
+outfit::n	with	poster::n	nmod	p.Characteristic	p.Characteristic
+poster::n	from	70'::n	nmod	p.StartTime	p.StartTime
+location::n	for	location::n	conj	p.Gestalt	p.Purpose
+update::v	in	database::n	obl	p.Locus	p.Locus
+view::n	of	city::n	nmod	p.Stimulus	p.Theme
+attraction::n	like	simulator::n	nmod	p.PartPortion	p.ComparisonRef
+spin::v	in	tower::n	obl	p.Locus	p.Locus
+spin::v	with	view::n	obl	p.Characteristic	p.Characteristic
+up::n	in	summer::n	obl	p.Time	p.Time
+come::v	for	meal::n	obl	p.Purpose	p.Purpose
+most::r	of	all::d	obl	_	_
+advance::v	within	month::n	obl	p.Duration	p.Duration
+service::n	for	student::n	nmod	p.Beneficiary	p.Beneficiary
+help::n	with	work::n	nmod	p.Theme	p.Theme
+move::v	to	rd::n	obl	p.Goal	p.Goal
+$::	with	water::n	nmod	p.Accompanier	p.Accompanier
+$::	for	buffet::n	nmod	p.Theme	p.Theme
+period::n	by	far::r	nmod	p.Extent	p.Extent
+one::c	of	place::n	nmod	p.Whole	p.Whole
+eat::v	for	lunch::n	obl	p.Circumstance	p.Circumstance
+offer::v	at	price::n	obl	p.Cost	p.Locus
+enough::a	up	fill::v	advcl	_	_
+park::n	at	have::v	acl	p.Locus	p.Locus
+photographer::n	with	work::v	acl:relcl	p.SocialRel	p.Co-Agent
+way::n	with	child::n	nmod	_	_
+image::n	as	as::r	cc	_	_
+disappoint::v	with	work::n	obl	p.Stimulus	p.Topic
+try::v	on	myself::p	obl	p.Theme	p.Theme
+quality::n	of	work::n	nmod	p.Gestalt	p.Gestalt
+ask::v	like	change::n	obl	p.ComparisonRef	p.ComparisonRef
+customer::n	with	coupon::n	nmod	p.Possession	p.Accompanier
+recommend::v	to	anyone::p	obl	p.Recipient	p.Goal
+ever::r	in	area::n	obl	p.Locus	p.Locus
+some::d	of	people::n	nmod	p.Whole	p.Whole
+follow::v	around	store::n	obl	p.Locus	p.Path
+couple::n	of	belt::n	nmod	p.Quantity	p.Whole
+walk::v	because	lurking::n	obl	p.Explanation	p.Explanation
+lurking::n	of	because::i	case	_	_
+ton::n	of	pizza::n	nmod	p.Quantity	p.Quantity
+other::a	than	pizza::n	obl	_	_
+pizza::n	from	chicago::n	nmod	p.Source	p.Source
+rude::a	as	as::r	cc	_	_
+come::v	out	mouth::n	obl	p.Source	p.Source
+come::v	of	mouth::n	obl	_	_
+taste::v	like	fece::n	obl	p.Manner	p.ComparisonRef
+place::n	with	room::n	nmod	p.PartPortion	p.PartPortion
+place::n	outside	city::n	nmod	p.Locus	p.Locus
+happy::a	with	lesson::n	obl	p.Stimulus	p.Topic
+do::v	for	year::n	obl	p.Duration	p.Duration
+issue::n	with	deal::v	acl	_	_
+prompt::a	in	response::n	obl	p.Circumstance	p.Circumstance
+company::n	in	phuket::n	nmod	p.Locus	p.Locus
+smooth::r	from	meeting::n	obl	p.StartTime	p.StartTime
+meeting::n	with	they::p	nmod	p.Co-Agent	p.Co-Agent
+smooth::r	to	launch::n	obl	p.EndTime	p.EndTime
+launch::n	of	website::n	nmod	p.Theme	p.Theme
+smooth::r	on	schedule::n	conj	p.Manner	p.Locus
+great::a	with	seo::n	obl	p.Topic	p.Topic
+service::n	with	outcome::n	nmod	p.Characteristic	p.Characteristic
+hiree::v	for	project::n	obl	p.Purpose	p.Purpose
+place::n	for	people::n	nmod	p.Beneficiary	p.Beneficiary
+people::n	in	pain::n	nmod	p.Manner	p.Locus
+place::n	for	people::n	nmod	p.Beneficiary	p.Beneficiary
+people::n	in	pain::n	nmod	p.Manner	p.Locus
+treat::v	like	being::n	obl	p.Manner	p.ComparisonRef
+explain::v	to	i::p	obl	p.Recipient	p.Goal
+work::n	on	car::n	nmod	p.Theme	p.Theme
+nothing::p	but	thing::n	conj	_	_
+food::n	at	price::n	nmod	p.Cost	p.Locus
+use::v	for	plumbing::n	obl	p.Purpose	p.Purpose
+star::n	for	sure::a	nmod	_	_
+thanks::n	from	bill::n	nmod	p.Originator	p.Source
+meat::n	on	burger::n	nmod	p.Locus	p.Locus
+facility::n	with	staff::n	nmod	p.OrgRole	p.Characteristic
+have::v	for	meal::n	obl	p.Circumstance	p.Circumstance
+abuse::v	during	end::n	obl	p.Time	p.Time
+beware::v	off	rip::v	parataxis	_	_
+shop::n	on	avenue::n	nmod	p.Locus	p.Locus
+drive::v	to	san::n	obl	p.Goal	p.Goal
+drive::v	for	pedi::n	obl	p.Purpose	p.Purpose
+arrive::v	with	box::n	obl	p.Possession	p.Accompanier
+hassle::n	with	trip::n	nmod	??	_
+do::v	in	august::n	obl	p.Time	p.Time
+recomend::v	to	other::n	obl	p.Recipient	p.Goal
+recomend::v	for	service::n	obl	p.Purpose	p.Purpose
+restaurant::n	in	valley::n	nmod	p.Locus	p.Locus
+drive::v	from	phx::n	obl	p.Source	p.Source
+use::v	in	future::n	obl	p.Time	p.Time
